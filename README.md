@@ -1,4 +1,4 @@
-# Customer Segmentation and Analysis using K-Means Clustering
+
 
 **Name:** Nishita Sharma  
 **Company:** CODTECH IT SOLUTIONS  
